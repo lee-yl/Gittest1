@@ -1,0 +1,66 @@
+{
+    "title":"潭布番薯干",
+    "salary":"7-12k",
+    "tags":["潭布番薯干","阿斯顿","范德萨"],
+    "date":"2019-08-30T02:52:32.4612",
+    "labels":["vue.js","react.js","node.js"],
+    "user":{
+        "id":1,
+        "avatar":"./images/avatar.jpg",
+        "name":"李远梁",
+        "title":"阿斯顿"
+    },
+    "body":"00岗位职责：<br>负责企业微信Web前端开发和优化工作；<br>岗位要求：<br>1. 计算机相关专业本科及以上学历，2年以上开发工作经验;<br>2. 熟悉HTML5/CSS3/ES6，至少精通一种主流Javascript框架（Vue/React/Augular等）<br>3. 熟悉HTTP协议，深入了解浏览器原理；<br>4. 熟悉Web性能优化, 有性能优化实践经验；<br>5. 具有小程序、移动端开发经验优先；<br>6. 具有NodeJS开发经验优先；<br>7. 具有较强的沟通能力与团队合作精神；具有良好的分析问题、解决问题的能力以及较强的学习能力；",
+    "team":["公司氛围","不打卡","领导nice"],
+    "company":{
+        "name":"阿斯顿",
+        "full_name":"阿斯顿飞过",
+        "tags":["工程施工","不需要融资","100-499人"],
+        "logo":"./images/company-logo-1.jpg",
+        "body":"深圳市腾讯计算机系统有限公司成立于1998年11月，由马化腾、张志东、许晨晔、陈一丹、曾李青五位创始人共同创立。 是中国最大的互联网综合服务提供商之一，也是中国服务用户最多的互联网企业之一。<br>腾讯多元化的服务包括：社交和通信服务QQ及微信/WeChat、社交网络平台QQ空间、腾讯游戏旗下QQ游戏平",
+        "props":{
+            "法人代表":"李远梁",
+            "注册资本":"100000万",
+            "成立时间":"今年",
+            "经营状态":"很好"
+        }
+    },
+    "jobs":[
+    {
+        "logo":"./images/company-logo.jpg",
+        "title":"【广东广州】终极web",
+        "salary":"(7-12)k",
+        "company":"阿斯顿"
+    },
+    {
+        "logo":"./images/company-logo.jpg",
+        "title":"【广东广州】终极web",
+        "salary":"7-12k",
+        "company":"阿斯顿"
+    },
+    {
+        "logo":"./images/company-logo.jpg",
+        "title":"【广东广州】终极web",
+        "salary":"(7-12)k",
+        "company":"阿斯顿"
+    },
+    {
+        "logo":"./images/company-logo.jpg",
+        "title":"【广东广州】终极web",
+        "salary":"7-12k",
+        "company":"阿斯顿"
+    }
+    ],
+    "companies":[
+        {"id":1, "name":"潭布番薯干"},
+        {"id":2, "name":"潭布番薯干2"},
+        {"id":3, "name":"潭布番薯干3"},
+        {"id":4, "name":"潭布番薯干4"}
+    ],
+    "path":[
+        {"title":"首页","url":"/"},
+        {"title":"广州招聘","url":"/"},
+        {"title":"广州web招聘","url":"/"},
+        {"title":"阿斯顿web","url":"/"}
+    ]
+}
